@@ -1,5 +1,5 @@
 ---
-title: Yet Another Sample Page
+title: Example Post Test 2024
 published: true
 ---
 
